@@ -25,8 +25,8 @@
         {
           "type": "git",
           "url": "https://github.com/MichaelScuteri/webp-converter-gnome",
-          "tag": "v4",    
-          "commit": "56db2db26e85510f69389d8495cde283b6e4197c"
+          "tag": "v5",    
+          "commit": "03a3d1c1cdded50e4fa4404d0463db05eba026e1"
         }
       ]
     }
